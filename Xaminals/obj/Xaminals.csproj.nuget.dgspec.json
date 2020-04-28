@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {}
+    "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {
+    "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj",
+        "projectUniqueName": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj",
         "projectName": "Xaminals",
-        "projectPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj",
+        "projectPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj",
         "packagesPath": "C:\\Users\\joshua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\obj\\",
+        "outputPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,7 +63,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

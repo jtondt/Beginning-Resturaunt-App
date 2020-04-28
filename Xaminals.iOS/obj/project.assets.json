@@ -1059,11 +1059,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals.iOS\\Xaminals.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals.iOS\\Xaminals.iOS.csproj",
       "projectName": "Xaminals.iOS",
-      "projectPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals.iOS\\Xaminals.iOS.csproj",
+      "projectPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals.iOS\\Xaminals.iOS.csproj",
       "packagesPath": "C:\\Users\\joshua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals.iOS\\obj\\",
+      "outputPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1084,8 +1084,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {
-              "projectPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj"
+            "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {
+              "projectPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj"
             }
           }
         }

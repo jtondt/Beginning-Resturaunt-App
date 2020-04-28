@@ -2045,11 +2045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals.Android\\Xaminals.Android.csproj",
+      "projectUniqueName": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals.Android\\Xaminals.Android.csproj",
       "projectName": "Xaminals.Android",
-      "projectPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals.Android\\Xaminals.Android.csproj",
+      "projectPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals.Android\\Xaminals.Android.csproj",
       "packagesPath": "C:\\Users\\joshua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals.Android\\obj\\",
+      "outputPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2070,8 +2070,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {
-              "projectPath": "C:\\Users\\joshua\\Desktop\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj"
+            "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj": {
+              "projectPath": "C:\\Users\\joshua\\source\\repos\\JT_Applications_8_27_2019_95%_Done\\Xaminals\\Xaminals.csproj"
             }
           }
         }
