@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xaminals.Views.CatDetailPage"
+             x:Name="self"
+             Title="Menu">
+
+    <Shell.BackButtonBehavior>
+        <BackButtonBehavior Command="{Binding BackCommand}"
+                            BindingContext="{Binding Source={x:Reference self}, Path=BindingContext}"
+                            IconOverride="back.png" />
+    </Shell.BackButtonBehavior>
+
+    <ScrollView>
+        <StackLayout Margin="20">
+            <Label Text="{Binding Name}" 
+                   HorizontalOptions="Center" 
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   Style="{DynamicResource TitleStyle}" />
+            <Image Source="{Binding ImageUrl}" 
+                   HeightRequest="300" 
+                   WidthRequest="600" 
+                   HorizontalOptions="CenterAndExpand" />
+            <Label Text="{Binding Details}" 
+                   TextColor="Black"
+                   FontSize="Medium"
+                   FontAttributes="Bold"
+                   Style="{DynamicResource BodyStyle}" />
+            <Label Text=""/>
+            <Label Text="{Binding Location}" 
+                   FontAttributes="Bold" 
+                   TextColor="Black"
+                   FontSize="Large"
+                   HorizontalOptions="Start" />
+            <!--<Button Text="Order Now" 
+                    BackgroundColor="DarkGreen"
+                    TextColor="White"
+                    HorizontalOptions="Center"/>-->
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
